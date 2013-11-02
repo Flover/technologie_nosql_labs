@@ -28,3 +28,11 @@ Wed Oct 30 12:54:27.145 			5979500	15371/second
 Wed Oct 30 12:54:29.540 check 9 6034196
 Wed Oct 30 12:54:29.571 imported 6034195 objects
 ```
+
+### Wyniki
+
+```
+real	6m32.087s
+user	1m13.177s
+sys	0m6.196s
+```
