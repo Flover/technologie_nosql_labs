@@ -1,4 +1,4 @@
-Zadanie 1a polega na zaimportowaniu, do systemów baz danych uruchomionych na swoim komputerze, danych z pliku `Train.csv` bazy:
+`Zadanie 1a` polega na zaimportowaniu, do systemów baz danych uruchomionych na swoim komputerze, danych z pliku `Train.csv` bazy:
 
    * `MongoDB`
    * `PostgreSQL` – opcjonalnie dla znających fanów SQL
