@@ -88,7 +88,7 @@ db.geoal.find({ loc: { $geoWithin: {$center : [[ -88.1356465, 33.6492873 ], 0.2 
 
 `305`
 
-## Polygon
+### Polygon
 
 ```js
 var pole = { "type" : "Polygon", "coordinates" : [ [ [-88, 33.80], [-87, 33.80], [-87, 33 ], [-88, 33], [-88, 33.80] ]] };
