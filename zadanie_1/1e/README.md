@@ -1,4 +1,4 @@
-### Treść
+## Treść
 
 
 `zadanie 1e`. Wyszukać w sieci dane zawierające obiekty [`GeoJSON`](http://geojson.org/geojson-spec.html#examples). Zapisać dane w bazie `MongoDB`.
@@ -19,7 +19,7 @@ Przed wgraniem pliku do bazy należy najpierw go naprawić zamieniając wszystki
 
 Importujemy do bazy poleceniem `time mongoimport -d geoal -c geoal --type csv --headerline --file AL_Prepared.txt`
 
-### Wyniki 
+## Wyniki 
 
 ```
 connected to: 127.0.0.1
@@ -35,9 +35,9 @@ user	0m0.752s
 sys	0m0.040s
 ```
 
-###Zapytania
+##Zapytania
 
-## $Near
+### $Near
 
 ```js
 var punkt = { "type" : "Point", 
